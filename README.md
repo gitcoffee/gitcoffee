@@ -14,26 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I'm Jose Luis! 👋
-
-<img src="X-wing_Fathead_1.webp" alt="Banner" width="600"/>
+### Hello, I'm Jose Luis! 👋
 
 I'm a developer passionate about **artificial intelligence** and **web design**.
 
-## 🛠️ Technologies and Tools
+#### 🛠️ Technologies and Tools
 - **Languages:** Python, JavaScript, HTML, CSS, Php ....
 - **Frameworks:** Django, Vue, Tailwind CSS
 - **Tools:** Git, Docker, Jupyter Notebook
 
-## 📈 Featured Projects
+#### 📈 Featured Projects
 - **[Project 1](https://github.com/gitcoffee/coupons)**: Learn Machine Learning and Artifical Inteligence.
 
-## 📫 Contact
+#### 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/jose-unix-b6693315/)
 - [Twitter](https://x.com/joseluisUnix)
 - [Email](mailto:1800joseluis@gmail.com)
 
-## 🎯 Current Goals
+#### 🎯 Current Goals
 - Learn more about **Machine Learning**.
 - Improve skills in **UX/UI design**.
 
