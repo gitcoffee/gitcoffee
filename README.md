@@ -20,11 +20,11 @@ I'm a developer passionate about **artificial intelligence** and **web design**.
 
 #### 🛠️ Technologies and Tools
 - **Languages:** Python, JavaScript, HTML, CSS, Php ....
-- **Frameworks:** Django, Vue, Tailwind CSS
-- **Tools:** Git, Docker, Jupyter Notebook
+- **Frameworks:** Django, Vue, Tailwind CSS ...
+- **Tools:** Git, Docker, Jupyter Notebook ...
 
 #### 📈 Featured Projects
-- **[Project 1](https://github.com/gitcoffee/coupons)**: Learn Machine Learning and Artifical Inteligence.
+- **[Coupons](https://github.com/gitcoffee/coupons)**: Learn Machine Learning and Artifical Inteligence / Certificate ML_AI / Berkeley
 
 #### 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/jose-unix-b6693315/)
