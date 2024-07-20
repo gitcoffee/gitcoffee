@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hello, I'm Jose Luis! 👋
 
-![Banner](X-wing_Fathead_1.webp)
+<img src="X-wing_Fathead_1.webp" alt="Banner" width="600"/>
 
 I'm a developer passionate about **artificial intelligence** and **web design**.
 
