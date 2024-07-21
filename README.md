@@ -28,27 +28,19 @@ I'm a developer passionate about **artificial intelligence** and **web design**.
 ![Twitter](https://img.shields.io/twitter/follow/tu-usuario-twitter?style=social)
 
 
-## Habilidades
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
-![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-
-## Proyectos Destacados
+## Important Proyects
 
 ![Project 1](https://img.shields.io/badge/Project%201-Repository-blue)
 ![Project 2](https://img.shields.io/badge/Project%202-Repository-blue)
 ![Project 3](https://img.shields.io/badge/Project%203-Repository-blue)
 
-## Contacto
+## Contact
 
 ![Email](https://img.shields.io/badge/Email-Contact%20Me-important?logo=gmail)
 
+---
 
-### Lenguajes
+### Lenguages of Programation <code>
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
@@ -81,7 +73,7 @@ I'm a developer passionate about **artificial intelligence** and **web design**.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
 ![GnuPlot](https://img.shields.io/badge/GnuPlot-4C8BBE?logo=gnuplot&logoColor=white)
 
-### Herramientas
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
@@ -96,13 +88,13 @@ I'm a developer passionate about **artificial intelligence** and **web design**.
 ![Fedora](https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white)
 
-### Nube
+### Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?logo=ibm&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoft-azure&logoColor=white)
 
-### Bases de Datos
+### Data Bases
 
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=sql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-006600?logo=nosql&logoColor=white)
@@ -113,7 +105,7 @@ I'm a developer passionate about **artificial intelligence** and **web design**.
 ![XML](https://img.shields.io/badge/XML-FF6600?logo=xml&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 
-### Servidores
+### Servers
 
 ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-269539?logo=nginx&logoColor=white)
@@ -125,30 +117,20 @@ I'm a developer passionate about **artificial intelligence** and **web design**.
 ![Apache Drill](https://img.shields.io/badge/Apache%20Drill-FF6600?logo=apache&logoColor=white)
 ![Parquet](https://img.shields.io/badge/Apache%20Parquet-5C80BC?logo=apache&logoColor=white)
 
-
-#### 💬 Languages
+---
+### Languages
 - Spanish fluency
 - English intermediate level
 
-#### 📈 Featured Projects
+### Featured Projects
 - **[Coupons](https://github.com/gitcoffee/coupons)**: Learn Machine Learning and Artifical Inteligence / Certificate ML_AI / Berkeley
 
-#### 📫 Contact
+### Contact
 - [LinkedIn](https://www.linkedin.com/in/jose-unix-b6693315/)
 - [Twitter](https://x.com/joseluisUnix)
 - [Email](mailto:1800joseluis@gmail.com)
 
-#### 🎯 Current Goals
+### Current Goals
 - Learn more about **Machine Learning**.
 - Improve skills in **UX/UI design**.
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
----
-# ¡Hola! Soy [Tu Nombre]
-
-![GitHub followers](https://img.shields.io/github/followers/tu-usuario-github?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/tu-usuario-github?affiliations=OWNER%2CCOLLABORATOR&style=social)
-![Profile views](https://gpvc.arturio.dev/tu-usuario-github)
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
-![Twitter](https://img.shields.io/twitter/follow/tu-usuario-twitter?style=social)
 
