@@ -119,7 +119,7 @@ aaaa1
 
 ![Email](https://img.shields.io/badge/Email-Contact%20Me-important?logo=gmail)
 
-### Lenguages of Programation <code>
+### Lenguages of Programation
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
