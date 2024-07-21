@@ -14,11 +14,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![npm](https://img.shields.io/npm/v/camunda-platform)
-![Discord](https://img.shields.io/discord/your-discord-server-id)
-![Test status](https://img.shields.io/github/workflow/status/camunda/camunda-platform/CI)
-![npm](https://img.shields.io/npm/dm/camunda-platform)
-![jsDelivr](https://img.shields.io/jsdelivr/npm/hm/camunda-platform)
+
+# ¡Hola! Soy [Tu Nombre]
+
+![GitHub followers](https://img.shields.io/github/followers/tu-usuario-github?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/tu-usuario-github?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![Profile views](https://gpvc.arturio.dev/tu-usuario-github)
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
+![Twitter](https://img.shields.io/twitter/follow/tu-usuario-twitter?style=social)
+
+## Acerca de Mí
+
+Soy un desarrollador con pasión por la creación de proyectos innovadores. Me especializo en desarrollo web y machine learning.
+
+## Habilidades
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+
+## Proyectos Destacados
+
+![Project 1](https://img.shields.io/badge/Project%201-Repository-blue)
+![Project 2](https://img.shields.io/badge/Project%202-Repository-blue)
+![Project 3](https://img.shields.io/badge/Project%203-Repository-blue)
+
+## Contacto
+
+![Email](https://img.shields.io/badge/Email-Contact%20Me-important?logo=gmail)
+
+
 ### Hello, I'm Jose Luis! 👋
 
 I'm a developer passionate about **artificial intelligence** and **web design**.
