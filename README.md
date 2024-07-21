@@ -1,4 +1,4 @@
-<img src="X-wing_Fathead_1.webp" alt="Banner" width="300"/>
+<img src="output_17_1.png" alt="Banner"/>
 
 <!--
 **gitcoffee/gitcoffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
