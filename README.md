@@ -22,7 +22,7 @@ I'm a developer passionate about **artificial intelligence** and **web design**.
 ![GitHub followers](https://img.shields.io/github/followers/tu-usuario-github?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/tu-usuario-github?affiliations=OWNER%2CCOLLABORATOR&style=social)
 <!-- ![Profile views]([https://gpvc.arturio.dev/gitcoffee](https://github.com/gitcoffee)) -->
-![Profile views]((https://github.com/gitcoffee))
+![Profile views](https://github.com/gitcoffee)
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
 ![Twitter Follow](https://img.shields.io/twitter/follow/joseluisUnix?style=social)
