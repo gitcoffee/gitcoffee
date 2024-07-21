@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ¡Hola! Soy [Tu Nombre]
+### Hello, I'm Jose Luis! 👋
+
+I'm a developer passionate about **artificial intelligence** and **web design**.
 
 ![GitHub followers](https://img.shields.io/github/followers/tu-usuario-github?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/tu-usuario-github?affiliations=OWNER%2CCOLLABORATOR&style=social)
@@ -24,11 +26,7 @@ Here are some ideas to get you started:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
 ![Twitter](https://img.shields.io/twitter/follow/tu-usuario-twitter?style=social)
 
-## Acerca de Mí
-
-Soy un desarrollador con pasión por la creación de proyectos innovadores. Me especializo en desarrollo web y machine learning.
-
-## Habilidades
+## Skills
 
 ### Lenguajes
 
@@ -109,16 +107,7 @@ Soy un desarrollador con pasión por la creación de proyectos innovadores. Me e
 
 
 
-### Hello, I'm Jose Luis! 👋
-
-I'm a developer passionate about **artificial intelligence** and **web design**.
-
-![GitHub followers](https://img.shields.io/github/followers/tu-usuario-github?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/tu-usuario-github?affiliations=OWNER%2CCOLLABORATOR&style=social)
-![Profile views](https://gpvc.arturio.dev/tu-usuario-github)
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
-![Twitter](https://img.shields.io/twitter/follow/tu-usuario-twitter?style=social)
+aaaa1
 
 ## Important Proyects
 
