@@ -19,9 +19,18 @@ Here are some ideas to get you started:
 I'm a developer passionate about **artificial intelligence** and **web design**.
 
 #### 🛠️ Technologies and Tools
-- **Languages:** Python, JavaScript, HTML, CSS, Php ....
-- **Frameworks:** Django, Vue, Tailwind CSS ...
+- **Languages:** Python, JavaScript, HTML, CSS, Php, JavaScript, PHP, Phyton, Perl, Fortran, Gnuplot, Java, NodeJs, Ruby On'Rails, MathLab, Fox, Pascal, Cobol
+- **Frameworks:** Django, Vue, Tailwind CSS, Sinfony, Laravel, Pinia, Vite, Pandas, Numpy, SciPy, Matplotlib, GnuPlot
 - **Tools:** Git, Docker, Jupyter Notebook ...
+- **OS:** Linux, Shell Script, Ubuntu, OpenSuse, Fedora, Centos
+- **CLoud:** Cloud AWS, IBM, Azure
+- **Data Base:** SQL, noSQL, JSon, MySQL, PostGres, MongoDB, XML, SQL Server
+- **Servers:** Apache, Ngnix, Docker, Kubernetes
+- **Big Data:** Apache Drill, Parket
+
+#### 💬 Languages
+- Spanish fluency
+- English intermediate level
 
 #### 📈 Featured Projects
 - **[Coupons](https://github.com/gitcoffee/coupons)**: Learn Machine Learning and Artifical Inteligence / Certificate ML_AI / Berkeley
