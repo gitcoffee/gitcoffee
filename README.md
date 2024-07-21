@@ -80,7 +80,7 @@ I'm a developer passionate about **artificial intelligence** and **web design**.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA6800?logo=jupyter&logoColor=white)
 
-### Sistemas Operativos
+### Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white)
