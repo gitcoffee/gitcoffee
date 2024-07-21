@@ -38,8 +38,6 @@ I'm a developer passionate about **artificial intelligence** and **web design**.
 
 ![Email](https://img.shields.io/badge/Email-Contact%20Me-important?logo=gmail)
 
----
-
 ### Lenguages of Programation <code>
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python)
@@ -117,7 +115,6 @@ I'm a developer passionate about **artificial intelligence** and **web design**.
 ![Apache Drill](https://img.shields.io/badge/Apache%20Drill-FF6600?logo=apache&logoColor=white)
 ![Parquet](https://img.shields.io/badge/Apache%20Parquet-5C80BC?logo=apache&logoColor=white)
 
----
 ### Languages
 - Spanish fluency
 - English intermediate level
