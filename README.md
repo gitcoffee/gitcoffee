@@ -24,13 +24,16 @@ I'm a developer passionate about **artificial intelligence** and **web design**.
 ![Profile views](https://gpvc.arturio.dev/tu-usuario-github)
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
-![Twitter](https://img.shields.io/twitter/follow/tu-usuario-twitter?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/joseluisUnix?style=social)
 
-## Important Proyects
+
+### Featured Projects
 
 ![Project 1](https://img.shields.io/badge/Project%201-Repository-blue)
 ![Project 2](https://img.shields.io/badge/Project%202-Repository-blue)
 ![Project 3](https://img.shields.io/badge/Project%203-Repository-blue)
+
+- **[Coupons](https://github.com/gitcoffee/coupons)**: Learn Machine Learning and Artifical Inteligence / Certificate ML_AI / Berkeley
 
 ## Contact
 
@@ -118,9 +121,6 @@ I'm a developer passionate about **artificial intelligence** and **web design**.
 ### Languages
 - Spanish fluency
 - English intermediate level
-
-### Featured Projects
-- **[Coupons](https://github.com/gitcoffee/coupons)**: Learn Machine Learning and Artifical Inteligence / Certificate ML_AI / Berkeley
 
 ### Contact
 - [LinkedIn](https://www.linkedin.com/in/jose-unix-b6693315/)
