@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![npm](https://img.shields.io/npm/v/camunda-platform)
+![Discord](https://img.shields.io/discord/your-discord-server-id)
+![Test status](https://img.shields.io/github/workflow/status/camunda/camunda-platform/CI)
+![npm](https://img.shields.io/npm/dm/camunda-platform)
+![jsDelivr](https://img.shields.io/jsdelivr/npm/hm/camunda-platform)
 ### Hello, I'm Jose Luis! 👋
 
 I'm a developer passionate about **artificial intelligence** and **web design**.
