@@ -1,4 +1,4 @@
-<img src="gnu020.jpg" alt="Banner" width="327" height="200"/>
+<img src="graph.jpg" alt="Banner" width="1000" height="200"/>
 
 <!--
 **gitcoffee/gitcoffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
